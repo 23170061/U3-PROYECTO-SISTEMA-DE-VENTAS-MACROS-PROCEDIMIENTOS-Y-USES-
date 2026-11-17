@@ -11,10 +11,7 @@ Proyecto de **Lenguajes de Interfaz – Unidad 3**: versión del sistema de la U
 
 ## Uso del inventario de prueba
 
-El programa lee y escribe `inventario.txt` en el **directorio de trabajo**. Al ejecutar desde Visual Studio, ese directorio es la carpeta del proyecto (donde está el `.asm`); al ejecutar el `.exe` directamente, es la carpeta del `.exe`.
-
-1. Copiar `pruebas/inventario.txt` a esa carpeta.
-2. Ejecutar y elegir **6 → 2 (Cargar)** y luego **2 (Consultar)**.
+El programa lee y escribe `inventario.txt` en el **directorio de trabajo**.
 
 Contenido esperado del archivo de prueba:
 
